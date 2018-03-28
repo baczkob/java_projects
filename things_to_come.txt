@@ -1,0 +1,5 @@
+Things that I'd like to add to my projects:
+JavaMasterClass exercices from Udemy
+Vert.x and Java.rx tutorials/examples
+My first applications
+Java streams/lambda applications
